@@ -1,3 +1,4 @@
 Hello git
 hello again
-Updating README with new information
+updating README with new information
+Hello Tarik
